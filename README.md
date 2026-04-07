@@ -1,4 +1,4 @@
-# 📊 Education System Analysis Dashboard  — Microsoft Excel
+# 🎓 Education System Analysis Dashboard  — Microsoft Excel
 🎓 Education System Analysis Dashboard
 
 ## 📌 Project Overview
